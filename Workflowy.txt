@@ -1,0 +1,492 @@
+- Example To-Do List
+  - Now
+    - Book Airbnb for trip to Madrid #now
+  - Today
+    - Email @james with feedback on new website
+    - Complete first draft of Sponsorship Brochure for upcoming event
+    - Iterate on email response that customers get when signing up for the newsletter
+  - This Week
+    - Open 5 new potential partners
+    - Research alternate website hosting company for new website
+    - Team meeting
+    - Decide on name for new product
+    - Followup with designer about new logo
+    - Complete 2 more slides for investor pitch deck
+    - Meditate for 20 minutes
+    - Send mural sketches to school
+- Projects
+  - Launch next version of website
+    - Done
+      - Get more cloud storage space
+      - Send proposal to new client @MacLain 
+    - In Progress
+      - Convert to HTML #now 
+    - Later
+      - Incorporate client feedback @James 
+      - Transition to new hosting provider
+      - Launch
+      - Bill client
+  - School Mural
+    - Done
+      - Hire artists
+    - In Progress
+      - Develop concept with artists #now 
+    - Later
+      - Schedule painting
+      - Buy paint & supplies
+      - Oversee painting
+      - Take picture of finished product
+  - Jazz Piano Course
+    - Done
+      - Record course videos
+    - In Progress
+      - Design landing page for course
+    - Later
+      - Research extra marketing channels
+  - Future
+    - Build a tiny house in the mountains
+    - Start a design company
+- Development
+  - Mind #learning 
+    "Why: to be happier; to improve memory; to be fully aware of life"
+    - Mindfulness Practice
+    - EQ Training
+    - Rationality Training
+    - Future
+      - Memory Training
+  - Fitness
+    "Why: To be physically prepared for an emergency situation; to be physically robust and healthy for a long life"
+    - Body by Science Exercise Program
+    - Yoga
+    - Sleep
+      - Go to bed by 11 each night
+    - Future
+      - 1 month CrossFit
+      - Self Defense (survival of the "Fittest")
+      - IronMan 70.3
+      - Parkour
+      - Standing Desk
+  - Social
+    "Why: To attract people and opportunities; to add to spice of life"
+    - 30 days of Spanish practice #learning 
+    - Attend one meet up group per week #behavior-change 
+    - Future
+      - Language Learning
+        - Esperanto
+        - Italian
+        - French
+      - Body Language Expertise
+      - Host monthly dinner party with friends/interesting guests
+      - Improv
+      - Storytelling
+      - Style
+  - Brand
+    "Why: To have large impact; to open new opportunities"
+    - Speaking Engagements
+    - Website
+    - Future
+      - Consistent Blogging
+  - Travel
+    "Why: To be inundated with culture; to learn about new foods, languages, and people"
+    - Mexico
+    - Future
+      - Chile
+      - Barcelona
+      - Madrid
+  - Polymath
+    "Why: to continue a life of learning; to be a polymath"
+    - 30 Days of Photography practice
+    - Books
+      - Essentialism
+      - Unstoppables
+      - The Charisma Myth
+      - The Alchemist
+    - Future
+      - Archery
+      - Tango
+      - Eastern Religions 
+  - Efficacy
+    "Why: To perform at the highest level; to minimize wasted time and money"
+    - Speed Reading
+    - Workflowy system
+    - Future
+      - Personal Assistant
+- Thought Log
+  "#idea #first #observation #lesson #decision #dream #prediction "
+  - 2014
+    - November
+      - 11/1
+        - The sky is blue
+        - How do they make thatched roofs?
+        - Maybe mural can include lots of animals #idea 
+      - 11/2
+        - It's really hard to get people to test a website out in the beginning
+      - 11/4
+        - Create a social network for books. Call it Bookbook. #idea 
+      - 11/5
+        - If you listen and ask questions in conversations, people think you're a good conversationalist #observation 
+      - 11/8
+        - Allow time for headspace and relaxation and reflection. That's when aha moments or duh insights surface and are incredibly important #lesson 
+      - 11/13
+        - Voice recognition is interesting
+        - getting power from plants
+      - 11/16
+        - Start recording the metaphors I come up With. 
+      - 11/17
+        - feeling pretty heavy after pancakes at Dan's Cafe Deluxe
+    - December
+      - 12/1
+        - Buy presents for the holidays
+      - 12/2
+        - Enter flower growing competition
+- Reading
+  - In progress & finished
+    - Articles
+      - Incredibly shrinking american middle class: #history 
+        " http://billmoyers.com/2013/09/20/by-the-numbers-the-incredibly-shrinking-american-middle-class/"
+      - Build a new city, human scale development #design 
+        "http://www.andrewalexanderprice.com/blog20130330.php#.U9mnuYBdWVt"
+      - Alternate Approaches to Fusion #crazy 
+        " http://www.nature.com/news/plasma-physics-the-fusion-upstarts-1.15592 #nuclear"
+      - Things companies do that cause innefficiency #management #history 
+        " http://www.overcomingbias.com/2014/07/firm-inefficiency.html"
+        - Here are the things that make firms less productive
+          - Threats Help Productivity – When firms face more competition, they often have big bursts of productivity. But if increases were possible, why not do them before?
+          - Long-Lasting Deadwood – Firms often keep employees who are widely known within the firm to not be pulling their weight relative to other employees. They tend to be fired during a downturn, or after a takeover.
+          - Not Invented Here – Firms are famously reluctant to adopt changes that appear to have been developed elsewhere, preferring instead changes for which someone internal can take credit.
+          - Shooting Messengers – Many firms greatly discourage passing bad news up to bosses. GM was just exposed as such a firm via a safety issue. Those who do pass bad news up are punished as if they were personally a big cause of the bad news.
+          - Yes Men – If bosses keep quiet about their opinion, they can evaluate subordinates via comparing employee opinions with boss opinion. But bosses consistently forgo this by telling subordinates lots of opinions and punishing those who question such opinions.
+          - Mergers & Acquisitions – Firms that buy and merge with other firms seem to consistently lose money.
+          - Poison Pills – Rules that discourage takeover attempts by financially penalizing such attempts prevent investors from getting more for their shares.
+          - Overpaid CEOs – It is far from clear that firms actually earn more when they hire more expensive CEOs.
+          - Too Many Meetings – It is widely believed that most firms hold too many meetings that go on too long with too many people.
+          - Too Many Interviews – It is hard to find much evidence that interviews add info on job performance. So why do candidates go through so many interviews?
+          - Biased Evaluations – Bosses consistently give lower evaluations to people they didn’t hire, relative to people they did hire. Yet official evaluations don’t correct for this.
+          - Excess Credentials – People consistently feel pressure to hire people whose credentials make them look good on paper, relative to people they believe would do a better job.
+          - Few Experiments – Firms tend to be reluctant to do experiments, such as to find preferred product variations. Experiments would force them to admit they don’t yet know.
+          - Few Track Records – Meetings are full of people making predictions on decision consequences, but firms almost never keep formal track records to rate accuracy.
+          - Reward Braggarts – Firms consistently neglect people who don’t toot their own horn, even when their superior features are widely known.
+          - Allow Info Silos – Groups and divisions with a firm are allowed to keep a lot of info secret within their group. Yet if the firm works together toward a common goal, what can be the benefit of keeping such secrets?
+          - Predictable Consultants – Management consultants are often hired at great expense to give advice that is quite predictable given the opinions of those who hired them.
+          - Little Telecommuting – Telecommuting seems to save big on costs, yet is not adopted much.
+          - - See more at: http://www.overcomingbias.com/2014/07/firm-inefficiency.html#sthash.mDDBxh93.dpuf
+      - Article on Success and Schizophrenia: #crazy http://www.nytimes.com/2013/01/27/opinion/sunday/schizophrenic-not-stupid.html?pagewanted=2&_r=0
+      - Awesome Quora post on Learning #learning
+        "http://www.quora.com/Learning/Do-grad-school-students-remember-everything-they-were-taught-in-college-all-the-time/answer/Mark-Eichenlaub "
+        - The harder you work to figure something out, the better you learn it
+      - First Principles of Interaction Design #design 
+        - http://asktog.com/atc/principles-of-interaction-design/?utm_source=Alertbox&utm_campaign=3db676b664-Alertbox_email_03_16_2014&utm_medium=email&utm_term=0_7f29a2b335-3db676b664-24184297
+      - Paper: The Effects of Fat and Protein on Glycemic Responses in Nondiabetic Humans Vary with Waist Circumference, Fasting Plasma Insulin, and Dietary Fiber Intake1
+        - Quotes
+          - "However, unexpectedly, there was a strong relation between dietary fiber intake and protein slope, such that a high fiber intake was associated with a larger protein effect (Fig. 4)."
+        - Takeaways
+          - To lose weight: eat lots of fiber. if you are going to eat sweets, eat a lot of protein first.
+          - If insulin resistant, fat does not lower glycemic response, so fat is only a replacement for calories
+          - Concrete what to eat: ground beef with raw veggies in it
+      - Andrew Stanton Profile - New Yorker
+        - http://www.newyorker.com/reporting/2011/10/17/111017fa_fact_friend?currentPage=all
+        - Learned about The Art of Dramatic Writing
+    - Books
+      - The Talent Code - Daniel Coyle #learning #design 
+        - Deliberate practice
+          "People mylinate worse when they are older. So kids are the best."
+          - Obsessive repetition
+          - Focus on finding and fixing flaws
+          - Technical improvements
+        - Hotbeds of Genius
+          - Florence 1440 - 1490: The Guild System
+        - The Three Rules of Deliberate Practice (Chapter 4)
+          - Rule 1: Chunk it up
+            - It's all about chunking. Get the basic chunks perfect, then build up bigger chunks.
+          - Rule 2: Repeat it
+          - Rule 3: Learn to feel it
+        - Ignition
+          - If people have long term committment, they make dramatically better progress (music)
+          - Motivation is critical, and it is primal
+            - Imitation is a huge motivator. The sense of, "If she can do it, I can". After a famous peor
+            - Hotbeds of innovation are grungy. People need to feel like they haven't made it yet. Like what's required is getting busy. Work.
+            - Hotbeds of innovation have strong cultures that drive people to work hard in on time and off.
+      - 1491 & 1493 #history 
+        "The Americas before & after columbus. AWESOME! exploded my brain"
+        - These books blew my mind!!! I want to read them again
+      - Motivational Interview #behavior-change 
+        - Reading Notes
+          - Reflective listening
+            - p53. Use statements that reflect the persons meaning instead of questions. 
+              - Think about the difference between "You're thinking about getting a divorce?" and "You're thinking about getting a divorce." Latter is non-judgemental, descriptive. First likely to imply disapproval.
+            - p54. Good example
+            - p55. You should be able to replace interviewer's pronoun "you" with "I" and should read like monologue.
+            - p57. Complex reflections, which make a guess about unspoken content or what's next, lead to faster progress than simple repetitious reflections.
+        - General Reflections
+          - So much wisdom in this book. Each little section, reflective listening, for example, feels like a colossal insight of its own, worthy of it's own book. And they all do have their own books. Anyway, it is pretty awesome.
+        - Ways of practice
+          - Read a sentence/paragraph, write a reflective listening response that you'd have to that sentence
+          - Try making statements instead of asking questions for a conversation (reflective listening)
+        - Summary
+      - Tenth December - George Sanders 
+        - these were awesome!
+      - Hooked (the habit/product book) #design #learning 
+        - Notes
+          - Trigger
+          - Action
+          - Variable rewards
+            - Tribe
+            - Hunt
+            - Self
+          - Investment
+        - Ideas generated
+          - Variable rewards: Having variable rewards for the referral program might increase sharing a lot, cause people want to get that awesome free thing. Include a lifetime free Pro account. Seems worth messing around with.
+          - Persistance hunting
+            - Chase: what about a running game with two people, where they run very slowly, and can't go faster than a given pace, and one is trying to catch the other. 
+            - AWESOME! An app that simulates persistance hunting. You chase a dot, and if you can catch it, you win. The dot moves around, and you can take shortcuts and whatnot. Man, that is a fucking awesome idea. The dot takes a random route along human walkable routes, and you just have to catch it. You can change the speed at which the dot moves, and you can change the head start that the dot gets. To really mimic the persistence hunting, the dot would have to get more exhausted as time went on, and it would have to run away as you got closer. Man, so awesome. I really want this.
+              - At the end of it, you get a reward. The actual reward is variable, obviously.
+      - Join the Club #behavior-change 
+        "Tina Rosenberg
+        This book ended up being a disappointment. I barely read past the first chapter. "
+        - Intro 
+          - There are a wide variety of organizations that dramatically change people's lives. They share one thing: they rely on peer pressure to shape people, changing identity and behavior. 
+          - Judith Rich Harris, the researcher behind "The nurture assumption" demonstrated that peer influence is dramatically more important than parental influence.
+      - Price of Inequality. And what a price it is. 
+        - Ideas
+          - Is there any hope for a voluntary redistributive mechanism? It is an interesting question. If I donated money and it got distributed to people with less than me. Likewise, I would get some from those with more. Perhaps tied to productivity.
+          - Could you set up such a voluntary system where everyone who contributes actually gets a return? Like an investment rather than charity. 
+        - Chapter notes
+          - Preface
+            - Reading about occupy, about Arab spring, I am having thoughts about wealth, equality etc. 
+            - I am not jealous of financial wealth (beyond that needed for pleasant lifestyle). I Care about emotional wealth. That is the goal of humans, I think, and financial wealth only helps to the point of security and freedom.
+            - I am fine if some people control the vast majority of wealth, as long as them doing so increases the wealth of the rest of us. It seems that it has not. This book argues that it does not. 
+            - Begins talking about arab spring and occupy movement. Signs, signals of underlying dissatisfaction.
+            - One of the central arguments: the .01% have taken control of the political system, which has redirected wealth from poor & middle class to the top. This has resulted in slower economic growth than the alternative.
+            - The idea that markets are efficient, if government would just step out of the way, has gained dominance, even though it is totally incorrect.
+          - Chapter 1 - The state of inequality. (boring. skip it.)
+            - Shit is fucked up. We know this. Boring.
+          - Chapter 2 - The cause: Rent seeking. Interesting
+            - 
+      - Psychedelic Explorer's Guide
+        "Recommended by Nick. Seems interesting. http://www.amazon.com/The-Psychedelic-Explorers-Guide-ebook/dp/B0051OHLVG/ref=tmm_kin_title_0"
+      - The Elements of User Onboarding #design 
+        - Resulting Ideas
+          - Pitch: Make it about the person
+            - Be the most organized person you know.
+            - Become the most organized person in the world.
+          - First user experience
+            - Gather information needed to make the user successful
+              - Give everyone a "personal assistant" and ask them to tell us who they are, what they do, so that we can help them use it to its full potential, and say we'll give them recommendations
+        - Chapter 1 - Outline all the touchpoints
+        - Chapter 2 - Make a better person
+          - This is an interesting point. You should pitch the whole thing in terms of the super powers it will give people. Super mario bros fire plant, for example, you are excited because it allows you to throw fire.
+          - What super powers can workflowy give you?
+            - Turn you into the most organized person in the world.
+            - Never forget anything.
+            - Become more creative and productive.
+        - Chapter 3 - Selling the dream - What great thing are you going to do for them?
+          - Basically the same as above (perhaps I mistook chapter two for chapter 3)
+        - Chapter 4 - How are you going to do it?
+          - Explain the actual mechanism by which you do things better, don't just make the promise
+        - Chapter 5 - The painful joy of switching
+          - Show how what you are doing now is better than what you were doing before
+        - 
+      - The power of habit - Charles Duhigg #behavior-change 
+        "Cool book. Very interesting look at the science of habit formation & change. It discusses habits in individuals, organizations & societies."
+        - The habit loop: cue -> routine -> reward
+          - Changing habits requires having the same cue/reward but changing the routine
+            - Alcoholics anonymous discussed in great length.
+          - New habits require creating a craving, so the cue+routine isn't enough. There has to be a tangible, noticeable reward.
+        - Belief is key: Bad habits can be replaced, but profound belief keeps you in it
+      - The Genius in All of Us #learning #design 
+        - #crazy Epigenetics, which are the result of lifestyle, can be inherited biologically. loc 2171
+        - Another book: The Myth of Ability: Math tutor says 3rd graders could all reach 7th grade level ...
+        - Competition is a good motivator
+        - Mozart: He was taught and pushed obsessively from an early age by someone (his father) with an unusual level of skill for a teacher.
+        - Chunking: Anders Ericsson taught J.S. to be a memory champion by randomly showing him digits and gradually increasing or decreasing the number of digits shown. It didn't transfer to letters. Digits are useless to remember, and mnemonic techniques are specific to specific domains. What is the most useful domain to learn to have an incredible memory? How about language. You could use the same technique, but apply it to something actually useful.
+          - #idea Software to train people to have perfect recall for language. You could apply the exact same memory exercise that they used for the digits experiment, but use written language instead of spoken language. 
+            - Basic Method
+              - Extract text from a book of some sort. 
+              - Show the person a series of words from that book.
+              - Ask them to type it back. 
+              - If they get it correct, show them the next series of words from the book, increasing the number of words by one.
+              - If they get it incorrect, show them the correct answer, and show them the next series of words from the book, decreasing the number of words by one
+              - At the end of each session, report their score.
+            - Method: Further thoughts
+              - Test ideal training time. It is very likely that there are diminishing returns in this kind of task, and it would be ideal to determine what those are. 
+            - Impact
+              - It could potentially increase people's intellectual horsepower significantly, by allowing them to reference things they read more readily. It might not, though, it's an interesting question for sure. 
+          - #idea Software using the same technique to expand one's ability to visually chunk text.
+            - Method
+              - Flash a string of text on the screen, and have someone type it back. 
+              - If they get it right, flash a larger string of text.
+              - If they get it wrong, flash a shorter string of text.
+              - Continue until people can parse enormous amounts of text in a glance, and everyone can read at the speed of thought. 
+            - Further thoughts
+              - This ties into, and could even be the same as, the previous idea regarding teaching people to remember.
+        - Discusses the study about Head Start that determined that the amount of linguistic interaction a kid gets in their first years of life determines how successful they are academincally. #interesting 
+          - Would it make more economic sense to pay poor parents to interact with their kids than their current jobs do? Could you turn those kids into all star programmers, engineers, musicians, etc??
+        - It's an interesting book. Initial part is about interaction of genes and environment. About debunking old school myth that genes determine traits.
+      - Steve Jobs
+        "This book was amazing! It got me really interested in Pixar, which is pretty awesome."
+      - Success Through Failure
+        "http://encore.sfpl.org/iii/encore/record/C%7CRb2012395%7CSsuccess+through+failure%7COrightresult%7CX5?lang=eng&suite=pearl"
+        - Get it at the San Francisco Public Library
+      - Where Good ideas come from #history 
+        - 1 - adjacent possible
+          "The better a system can explore the adjacent possible, the more innovative it is.
+          
+          Get as many parts on the table as possible. "
+        - 2 - liquid networks
+          "The more combinations the system encourages, the more innovative. Seems that they seem to happen as a result of people talking (in scientific research) more than solitary brooding. 
+          
+          He talks about architecture a bit too, building 50 at MIT and b 99 at microsoft. Basically, not too enlightening, doesnt seem like there's much substance. Essentially, though, sounds like encouraging mingling and brainstorming is a good idea. "
+        - 3 - the slow hunch
+          "Great chapter. Idea is that new ideas form gradually, hazily. Talk about darwins notebooks and his idea evolution. 
+          
+          Lots of talk about the importance of writing everything down, keeping track of hunches, amd constantly re-reading your writings. 
+          
+          Interestingly, there's a section against over categorization. "New ideas do not thribe on archipelagios."
+          
+          I should read "Enquire Within Upon Everything"
+          "
+        - 4 - serendipity
+          "Basically, you must connect two non-obvious, unexpectely related ideas. Breakthroughs happen in an associative state. 
+          
+          How do you get into an associative state? Go for a walk. Take a bath. "
+        - 5 - error
+          "Allowing mistakes to enter the system is like tinkering. It also frees people's minds to be more creative, jars them out of the status quo. "
+        - 6 - Exaptation
+    - Movies
+      - Prohibition Documentary #history 
+        "Super interesting"
+        - Episode 1: A nation of drunkards
+          - Super interesting, a ton of stuff.
+  - To Read
+    - Fiction
+      - Ana karenina
+      - Down and out in paris and London. George Orwell.
+      - Sam sheppard plays. 
+      - Grace paley
+        "mentioned on npr as great writer "
+      - The Fantastic Flying Books of Mr. Morris Lessmore (iPad book, Sarah and Alexis' article)
+    - Non fiction
+      - West With The Night
+        "beryl markum: monica's book. About female african pilot. Sounds rad. "
+      - General theory of love
+        - Monica - Didn't like first couple chapters, but then it got amazing.
+      - The nurture assumption
+        "Referenced in "join the club". About how peers matter more than parents. "
+      - How children succeed
+      - Diamond world until yesterday
+      - Silver - signal and noise 
+      - Antipatterns book
+        - William j brown
+      - The most human human 
+      - The righteous mind #nickreville 
+        "Morality, western, etc. "
+      - 1493 - America before/after Columbus #nickreville 
+      - Psychadelic explorer's guide #nickreville 
+      - Ladies and gentlemen: the bible
+      - Searching for Sugarman (documentary about movie)
+      - KT BOUNDARY (videos): http://media.hhmi.org/mesozoic/index.html
+      - Mating - Norman Rush (Ben)
+      - Babies
+        - Ina May Gaskin
+        - The Birth Partner
+      - The Ancestors' Tale - Richard Dawkins.
+        "Traces human ancestors all the way back to single celled organisms. Mike likes it."
+      - Read about Deliberate Practice, and implement it in my life
+        - Carol Dweck - motivation and mindset researcher: https://www.stanford.edu/dept/psychology/cgi-bin/drupalm/cdweck 
+        - Read stuff by Anders Ericsson
+          - Resources
+            - Here's the original article: http://www.annualreviews.org/doi/full/10.1146/annurev.psych.47.1.273
+              "Find it through San Francisco Public Library"
+            - Amazon search for his name: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Anders+Ericsson&x=0&y=0
+            - Database accessed through SFPL: http://go.galegroup.com.ezproxy.sfpl.org/ps/headerQuickSearch.do?quickSearchTerm=k.+anders+ericsson&searchType=BasicSearchForm&sgHitCountType=None&userGroupName=sfpl_main&nwf=y&prodId=AONE&method=doSearch
+            - JSTOR: http://www.jstor.org.ezproxy.sfpl.org/action/doBasicSearch?Query=K.+Anders+Ericsson&gw=jtx&acc=on&prq=K.+Anders&Search=Search&hp=25&wc=on
+            - Psychology and Behavioral Sciences Collection
+              "http://www.jstor.org.ezproxy.sfpl.org/action/doBasicSearch?Query=K.+Anders+Ericsson&gw=jtx&acc=on&prq=K.+Anders&Search=Search&hp=25&wc=on"
+            - His web site
+          - Notes
+            - The road to excellence: deliberate practice and the development of expertise
+              "http://web.ebscohost.com.ezproxy.sfpl.org/ehost/pdfviewer/pdfviewer?vid=6&hid=125&sid=2c0fcf6c-3695-42c7-bfcf-7a9fe4eeecaa%40sessionmgr15
+              
+              "
+            - An overview of the field: http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html
+              - Fascinating. Experts have different mechanisms for representing concepts and knowledge within their domains
+                ""For appropriate challenging problems experts don't just automatically extract patterns and retrieve their response directly from memory. Instead they select the relevant information and encode it in special representations in working memory that allow planning, evaluation and reasoning about alternative courses of action (Ericsson & Lehmann, 1996). Hence, the difference between experts and less skilled subjects is not merely a matter of the amount and complexity of the accumulated knowledge; it also reflects qualitative differences in the organization of knowledge and its representation (Chi, Glaser & Rees, 1982).  Experts' knowledge is encoded around key domain-related concepts and solution procedures that allow rapid and reliable retrieval whenever stored information is relevant. Less skilled subjects' knowledge, in contrast, is encoded using everyday concepts that make the retrieval of even their limited relevant knowledge difficult and unreliable. Furthermore, experts have acquired domain-specific memory skills that allow them to rely on long-term memory (Long-Term Working Memory, Ericsson & Kintsch, 1995) to dramatically expand the amount of information that can be kept accessible during planning and during reasoning about alternative courses of action.  The superior quality of the experts' mental representations allow them to adapt rapidly to changing circumstances and anticipate future events in advance.""
+        - Read about how guilds worked in the renassaince
+        - Here's the study hacks guy who mentions it a lot: 
+          "http://calnewport.com/blog/2010/01/06/the-grandmaster-in-the-corner-office-what-the-study-of-chess-experts-teaches-us-about-building-a-remarkable-life/"
+      - Yoga of recovery #nutrition
+        "Sweets addiction. "
+      - NYT, year in fitness: http://well.blogs.nytimes.com/2011/12/28/the-year-in-fitness/
+      - Flow 
+      - Dorris Kearns goodwin's book on the rooseveltes
+      - Flourish - seligman
+        "he did this research on happiness that's interesting. "
+      - Chitlin circuit (and book about by guy who sang "you give me fever"
+      - The Cello Suites: http://www.amazon.com/Cello-Suites-Casals-Baroque-Masterpiece/dp/0802119298
+      - Talk of the nation book about pirates. 
+      - Sloane Crawsley -- Kirstin
+        - I was told there'd be cake. 
+- Schedule
+  - Monday - Friday
+    - 23:00 - Sleep
+    - 05:30 - Wake and dream journal
+    - 05:45 - Yoga
+    - 06:00 - Shower
+    - 06:30 - Coffee + Most Important Task
+    - 08:00 - Breakfast
+    - 08:20 - Project or Development
+    - 08:40 - Meditation
+    - 09:00 - Project or Development
+    - 09:30 - Work Check-in with Team
+    - 09:50 - Work Cycle
+    - 11:20 - Meal|Project|Development
+    - 12:00 - Nap
+    - 13:30 - Work Cycle - Email
+    - 15:00 - Project|Development
+    - 15:20 - Work Cycle
+    - 16:50 - Project|Development
+    - 17:10 - Work Cycle
+    - 18:40 - Close + Task Reallocation for Tomorrow
+    - 19:00 - Dinner + Gratitude
+    - 20:30 - Read|Social|Project|Development
+    - 22:30 - Journal and Reflection
+  - Saturday
+    - 23:00 - Sleep
+    - 05:30 - Wake and dream journal
+    - 05:45 - Yoga
+    - 06:00 - Shower
+    - 06:30 - Coffee + Most Important Task
+    - 08:00 - Breakfast
+    - 08:20 - Development
+    - 08:40 - Meditation
+    - 09:00 - Recreation|Project|Development
+    - 12:00 - Nap
+    - 13:30 - Recreation|Project|Development
+    - 18:40 - Close + Task Reallocation for Tomorrow
+    - 19:00 - Dinner + Gratitude
+    - 20:30 - Read|Social|Project|Development
+    - 22:30 - Journal and Reflection
+  - Sunday
+    - 23:00 - Sleep
+    - 05:30 - Wake and dream journal
+    - 05:45 - Yoga
+    - 06:00 - Shower
+    - 06:30 - Coffee + MIT
+    - 08:00 - Breakfast
+    - 08:20 - Development
+    - 08:40 - Meditation
+    - 09:00 - Recreation|Project|Development
+    - 12:00 - Nap
+    - 13:30 - Recreation|Project|Development
+    - 15:00 - Break
+    - 15:20 - Reflection + Week Preparation
+    - 17:00 - Dinner + Gratitude
+    - 20:30 - Read|Social|Project|Development
+    - 22:30 - Journal
+- Progress
+  - 2014
+    - November
+      - Moved to a different country
+      - Became a personal coach
+      - Celebrated 1st anniversary of podcast
+    - December
