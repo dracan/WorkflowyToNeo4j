@@ -21,7 +21,7 @@ async Task Main()
     pb.Dump();
 
     using (var client = new GraphClient(new Uri("http://localhost:7474/db/data"), "neo4j", "blah"))
-	{
+    {
         await client.ConnectAsync();
 
         await client.Cypher
@@ -31,6 +31,7 @@ async Task Main()
             .ExecuteWithoutResultsAsync();
 
         var rootNode = new Node { Id = Guid.NewGuid(), Name = "Workflowy" };
+
         await client.Cypher
             .Create("(node:Node {node})")
             .WithParam("node", rootNode)
@@ -62,7 +63,7 @@ async Task Main()
             pb.Percent = (int)(((decimal)n / (decimal)nodes.Count) * 100m);
             dc.Content = $"Processed {n} out of {nodes.Count} nodes";
         }
-	}
+    }
 }
 
 List<Node> ProcessWorkflowy(string filename)
@@ -91,7 +92,7 @@ List<Node> ProcessWorkflowy(string filename)
 
 public class Node
 {
-	public Guid Id { get; set; }
-	public string Name { get; set; }
+    public Guid Id { get; set; }
+    public string Name { get; set; }
     public int Level { get; set;}
 }
